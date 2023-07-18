@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/t7w7-A?referralCode=gNDAfP)
+
 <img src="https://telegra.ph/file/efdf5689646da738eb787.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
